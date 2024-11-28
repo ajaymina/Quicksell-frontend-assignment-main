@@ -1,0 +1,17 @@
+.Npaper{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Npaper2{
+    margin: 0.3rem 0rem 0.5rem 1.2rem;
+}
+.menuItem{
+    display: flex;
+    justify-content: space-between;
+}
+.menuItem .sel{
+    width: 100px;
+    margin-left: 5rem 
+}
